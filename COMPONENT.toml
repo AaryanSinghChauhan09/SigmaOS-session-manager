@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-session-manager"
+description = "SigmaOS subsystem component for session-manager"
+version = "0.1.0"
+tier = 4
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources"]
