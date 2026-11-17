@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-session-manager"
-description = "SigmaOS subsystem component for session-manager"
+description = "XDG session manager (start/stop/save sessions)"
 version = "0.1.0"
 tier = 4
 
