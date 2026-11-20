@@ -5,6 +5,7 @@ pub mod config;
 pub mod error;
 pub mod file;
 pub mod service;
+pub mod sigmasession;
 pub mod theme;
 pub mod window;
 
