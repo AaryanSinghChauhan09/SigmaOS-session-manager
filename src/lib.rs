@@ -19,3 +19,9 @@ pub use window::{Rect, Window, WindowManager};
 pub fn version() -> &'static str {
     env!("CARGO_PKG_VERSION")
 }
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod sigmaprofilemanager;
+
+/// Module extracted from the SigmaOS-system monolith.
+pub mod sigmasessionmanager;
